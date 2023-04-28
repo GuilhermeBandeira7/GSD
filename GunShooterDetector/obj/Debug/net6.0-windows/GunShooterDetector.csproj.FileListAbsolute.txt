@@ -1,0 +1,315 @@
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.AssemblyReference.cache
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.GenerateResource.cache
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.AssemblyInfoInputs.cache
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.AssemblyInfo.cs
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.CoreCompileInputs.cache
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.exe
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.deps.json
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.runtimeconfig.json
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.dll
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.pdb
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.dll
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\refint\GunShooterDetector.dll
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.pdb
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.genruntimeconfig.cache
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\ref\GunShooterDetector.dll
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.Properties.Resources.resources
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Menu.resources
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\MasterServerDatabase.dll
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\MasterServerDatabase.pdb
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.CopyComplete
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Calibracao.resources
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Eventos.resources
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Historico.resources
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Reset.resources
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_ConfigTeste.resources
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.NewLogin_View.resources
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_PortaSerial.resources
+C:\Users\User\source\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Mensagens.resources
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.exe
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.deps.json
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.runtimeconfig.json
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.dll
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.pdb
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.AssemblyReference.cache
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.Properties.Resources.resources
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Menu.resources
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Calibracao.resources
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_ConfigTeste.resources
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Eventos.resources
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Historico.resources
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_PortaSerial.resources
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Reset.resources
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.GenerateResource.cache
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.AssemblyInfoInputs.cache
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.AssemblyInfo.cs
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.CoreCompileInputs.cache
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.CopyComplete
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.dll
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\refint\GunShooterDetector.dll
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.pdb
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.genruntimeconfig.cache
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\ref\GunShooterDetector.dll
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_OffsetConfig.resources
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Canal1Config.resources
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Canal2Config.resources
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_NewLogin_View.resources
+C:\Users\MTW\OneDrive\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Reset.resources
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.Properties.Resources.resources
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Canal1Config.resources
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Canal2Config.resources
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Menu.resources
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_NewLogin_View.resources
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_OffsetConfig.resources
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Reset.resources
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Calibracao.resources
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_ConfigTeste.resources
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Eventos.resources
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Historico.resources
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_PortaSerial.resources
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Reset.resources
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.GenerateResource.cache
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.AssemblyInfoInputs.cache
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.AssemblyInfo.cs
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.CoreCompileInputs.cache
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.exe
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.deps.json
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.runtimeconfig.json
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.dll
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\ref\GunShooterDetector.dll
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.pdb
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.CopyComplete
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.dll
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\ref\GunShooterDetector.dll
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.pdb
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.genruntimeconfig.cache
+C:\Users\scoli\OneDrive\DOWNLOAD\GUILHERME\SharedProject\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.AssemblyReference.cache
+D:\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.exe
+D:\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.deps.json
+D:\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.runtimeconfig.json
+D:\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.dll
+D:\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.pdb
+D:\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\System.IO.Ports.dll
+D:\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+D:\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.AssemblyReference.cache
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.Properties.Resources.resources
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Canal1Config.resources
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Canal2Config.resources
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Menu.resources
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_NewLogin_View.resources
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_OffsetConfig.resources
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Reset.resources
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Calibracao.resources
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_ConfigTeste.resources
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Eventos.resources
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Historico.resources
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_PortaSerial.resources
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Reset.resources
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.GenerateResource.cache
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.GeneratedMSBuildEditorConfig.editorconfig
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.AssemblyInfoInputs.cache
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.AssemblyInfo.cs
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.CoreCompileInputs.cache
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.CopyComplete
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.dll
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\refint\GunShooterDetector.dll
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.pdb
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.genruntimeconfig.cache
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\ref\GunShooterDetector.dll
+D:\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_DegubMessages.resources
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.exe
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.deps.json
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.runtimeconfig.json
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.dll
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.pdb
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.AssemblyReference.cache
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.Properties.Resources.resources
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Canal1Config.resources
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Canal2Config.resources
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_DegubMessages.resources
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Menu.resources
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_NewLogin_View.resources
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_OffsetConfig.resources
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Reset.resources
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Calibracao.resources
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_ConfigTeste.resources
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Eventos.resources
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Historico.resources
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_PortaSerial.resources
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.GenerateResource.cache
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.AssemblyInfoInputs.cache
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.AssemblyInfo.cs
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.CoreCompileInputs.cache
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.CopyComplete
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.dll
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\refint\GunShooterDetector.dll
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.pdb
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.genruntimeconfig.cache
+C:\Users\MTW\Desktop\NovoVolume - Backup\GunShooterDetector\GSD\GunShooterDetector\obj\Debug\net6.0-windows\ref\GunShooterDetector.dll
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.exe
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.deps.json
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.runtimeconfig.json
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.dll
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\bin\Debug\net6.0-windows\ref\GunShooterDetector.dll
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.pdb
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.AssemblyReference.cache
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.Properties.Resources.resources
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Canal1Config.resources
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Canal2Config.resources
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_DegubMessages.resources
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Menu.resources
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_NewLogin_View.resources
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_OffsetConfig.resources
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Reset.resources
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Calibracao.resources
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_ConfigTeste.resources
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Eventos.resources
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Historico.resources
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_PortaSerial.resources
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.GenerateResource.cache
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.AssemblyInfoInputs.cache
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.AssemblyInfo.cs
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.CoreCompileInputs.cache
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.CopyComplete
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.dll
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\ref\GunShooterDetector.dll
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.pdb
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.genruntimeconfig.cache
+C:\Users\scoli\OneDrive\Área de Trabalho\GSD\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Message.resources
+D:\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.exe
+D:\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.deps.json
+D:\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.runtimeconfig.json
+D:\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.dll
+D:\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.pdb
+D:\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\System.IO.Ports.dll
+D:\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+D:\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+D:\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+D:\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+D:\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+D:\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+D:\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.AssemblyReference.cache
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.Properties.Resources.resources
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Canal1Config.resources
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Canal2Config.resources
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_DegubMessages.resources
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Menu.resources
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Message.resources
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_NewLogin_View.resources
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_OffsetConfig.resources
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Reset.resources
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Calibracao.resources
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_ConfigTeste.resources
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Eventos.resources
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Historico.resources
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_PortaSerial.resources
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.GenerateResource.cache
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.GeneratedMSBuildEditorConfig.editorconfig
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.AssemblyInfoInputs.cache
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.AssemblyInfo.cs
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.CoreCompileInputs.cache
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.CopyComplete
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.dll
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.pdb
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.genruntimeconfig.cache
+D:\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\ref\GunShooterDetector.dll
+D:\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\ref\GunShooterDetector.dll
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.exe
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.deps.json
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.runtimeconfig.json
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.dll
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\GunShooterDetector.pdb
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.AssemblyReference.cache
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.Properties.Resources.resources
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Canal1Config.resources
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Canal2Config.resources
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_DegubMessages.resources
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Menu.resources
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Message.resources
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_NewLogin_View.resources
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_OffsetConfig.resources
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Frm_Reset.resources
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Calibracao.resources
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_ConfigTeste.resources
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Eventos.resources
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_Historico.resources
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.View.Uc_PortaSerial.resources
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.GenerateResource.cache
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.AssemblyInfoInputs.cache
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.AssemblyInfo.cs
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.CoreCompileInputs.cache
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.csproj.CopyComplete
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.dll
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\refint\GunShooterDetector.dll
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.pdb
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\GunShooterDetector.genruntimeconfig.cache
+C:\Users\MTW\Desktop\Novo GSD Tester\Novo GSD Tester\GSD - 1\GunShooterDetector\obj\Debug\net6.0-windows\ref\GunShooterDetector.dll

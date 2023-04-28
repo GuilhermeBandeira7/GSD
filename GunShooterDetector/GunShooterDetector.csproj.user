@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="View\Frm_Canal1Config.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Frm_Canal2Config.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Frm_DegubMessages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Frm_Menu .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Frm_Message.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Frm_NewLogin_View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Frm_OffsetConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Frm_Reset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Uc_Calibracao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\Uc_ConfigTeste.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\Uc_Eventos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\Uc_Historico.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\Uc_PortaSerial.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
